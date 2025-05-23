@@ -8,6 +8,7 @@ let price: number = 10.99; // This is a decimal number
 // String: This is for text or words.
 
 let name: string = "John"; // This is a string (text)
+console.log(name);
 
 
 
