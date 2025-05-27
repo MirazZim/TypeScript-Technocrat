@@ -1,4 +1,4 @@
-//reference type ==> object
+{//reference type ==> object
 
 //type ==> literal types
 let person : {
@@ -12,3 +12,4 @@ let person : {
 }
 
 //when we add a question mark after a property name, it becomes optional
+}

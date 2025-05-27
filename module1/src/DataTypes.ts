@@ -1,3 +1,4 @@
+{
 // Number: This is for whole numbers or decimals.
 
 let age: number = 5; // This is a number
@@ -88,3 +89,4 @@ let personInfo: { name: string; age: number } = {
   age: 22,
 }; // This object must have a name (string) and age (number)
 
+}
