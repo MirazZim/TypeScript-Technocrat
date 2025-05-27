@@ -23,6 +23,8 @@ address: {
 const {name: {firstName : name1, lastName : name2}, age, contact, address} = User
 console.log(name1, name2, age, contact, address);
 
+//here name1 and name2 are name aliases
+
 
 
 
