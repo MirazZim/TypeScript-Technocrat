@@ -54,7 +54,7 @@ type FullstackDeveloper = FrontendDevoloper & BackendDevoloper
 
 //here we are using the intersection type
 const fullstackDeveloper : FullstackDeveloper = {
-    skills: ['HTML', 'CSS', 'JavaScript', 'React', 'Node JS', 'Express JS'],
+    skills: ['HTML', 'CSS', 'JavaScript', 'React', 'Node JS', 'Express JS', 'Nestjs'],
     designation1: 'Frontend Developer',
     designation2: 'Backend Developer'
 }
